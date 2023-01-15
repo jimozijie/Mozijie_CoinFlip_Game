@@ -9,6 +9,10 @@
 
 如果你有QT运行环境，您可以尝试下载源代码运行。如若没有QT运行环境，您也可以下载代码研究，并且可以打开软件安装包中的 Mozijie_CoinFlip_Game.exe （游戏文件）愉快的玩耍。
 
+### 源码目录
+
+<img src="https://user-images.githubusercontent.com/106757368/212537494-95fb899b-162d-4191-bd22-e5a0323de40a.png" width="300px">
+
 ### 部分源码展示
 #### selectscene.cpp
 ```C++
