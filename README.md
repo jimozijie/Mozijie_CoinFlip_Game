@@ -11,7 +11,7 @@
 
 ### 部分源码展示
 #### playscene.cpp
-```
+```C++
 #include "playscene.h"
 #include "mypushbuttom.h"
 #include <QPainter>
@@ -163,6 +163,7 @@ void PlayScene::paintEvent(QPaintEvent *event)
 }
 
 ```
+
 
 ### 部分游戏截图
 #### 开始场景
